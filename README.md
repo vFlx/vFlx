@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vFlx
-- 👀 I’m interested in software development and basic pen testing.                 
--  Just browsing 
+-    wannabe developer                
+-    Just browsing 
 
 
 
